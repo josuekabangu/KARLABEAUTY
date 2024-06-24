@@ -4,7 +4,7 @@ from .base import *
 DEBUG = False
 
 # Ajouter les hôtes autorisés pour la production
-ALLOWED_HOSTS = ['karlab-325812bf69b1.herokuapp.com']
+ALLOWED_HOSTS = ['katlabeauty-a3eb72200b6b.herokuapp.com']
 
 
 # Configuration des bases de données pour la production (utilisation de dj-database-url)
